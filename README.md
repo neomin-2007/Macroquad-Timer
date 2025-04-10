@@ -5,7 +5,9 @@ A simple and elegant timer utility for Macroquad game development in Rust.
 Features
 
 ✨ Easy-to-use timer implementation
+
 ✨ Precise time tracking
+
 ✨ Multiple utility methods:
 
 🧩 **Installation**
