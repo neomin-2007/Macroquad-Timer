@@ -18,7 +18,7 @@ Features
 
         Reset functionality
 
-Installation
+**Installation**
 
 Add this to your Cargo.toml:
 toml
@@ -30,11 +30,9 @@ macroquad = "0.4"
 macroquad-timer = { git = "https://github.com/neomin-2007/Macroquad-Timer" }
 ```
 
-Usage Example
-rust
-Copy
+**Usage Example**
 
-``
+```
 use macroquad::prelude::*;
 use macroquad_timer::Timer;
 
@@ -64,6 +62,4 @@ async fn main() {
         next_frame().await;
     }
 }
-``
-
-
+```
