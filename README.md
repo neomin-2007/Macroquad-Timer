@@ -14,7 +14,7 @@ Features
 
 Add this to your Cargo.toml:
 
-```
+```toml
 [dependencies]
 macroquad = "0.4"
 macroquad-timer = { git = "https://github.com/neomin-2007/Macroquad-Timer" }
