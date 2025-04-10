@@ -21,8 +21,6 @@ Features
 **Installation**
 
 Add this to your Cargo.toml:
-toml
-Copy
 
 ```
 [dependencies]
