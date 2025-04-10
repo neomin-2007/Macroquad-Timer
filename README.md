@@ -22,7 +22,7 @@ macroquad-timer = { git = "https://github.com/neomin-2007/Macroquad-Timer" }
 
 🏖️ **Usage Example**
 
-```
+```rust
 use macroquad::prelude::*;
 use macroquad_timer::Timer;
 
