@@ -4,21 +4,11 @@ Macroquad Timer Utility
 A simple and elegant timer utility for Macroquad game development in Rust.
 Features
 
-    Easy-to-use timer implementation
+✨ Easy-to-use timer implementation
+✨ Precise time tracking
+✨ Multiple utility methods:
 
-    Precise time tracking
-
-    Multiple utility methods:
-
-        Check if timer is finished
-
-        Get elapsed time
-
-        Get remaining time
-
-        Reset functionality
-
-**Installation**
+🧩 **Installation**
 
 Add this to your Cargo.toml:
 
@@ -28,7 +18,7 @@ macroquad = "0.4"
 macroquad-timer = { git = "https://github.com/neomin-2007/Macroquad-Timer" }
 ```
 
-**Usage Example**
+🏖️ **Usage Example**
 
 ```
 use macroquad::prelude::*;
